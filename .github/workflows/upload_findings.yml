@@ -1,0 +1,9 @@
+name: "Upload Spotbugs findings"
+on:
+    push:
+        paths:
+            - 'reports'
+jobs:
+    - uses: jwgmeligmeyling/spotbugs-github-action@master
+      with:
+          path: '**/spotbugsXml.xml'
