@@ -43,7 +43,7 @@
             {
               "id": "SPRING_FILE_DISCLOSURE",
               "name": "Spring File Disclosure",
-              "helpUri": "https://stackoverflow.com/search?q=appthreat/sast-scan+findsecbugs+SPRING_FILE_DISCLOSURE+Spring File Disclosure"
+              "helpUri": "https://cwe.mitre.org/data/definitions/319.html"
             },
             {
               "id": "CWE-319",
@@ -73,7 +73,7 @@
             {
               "id": "HTTPONLY_COOKIE",
               "name": "Cookie without the HttpOnly flag",
-              "helpUri": "https://stackoverflow.com/search?q=appthreat/sast-scan+findsecbugs+HTTPONLY_COOKIE+Cookie without the HttpOnly flag"
+              "helpUri": "https://cwe.mitre.org/data/definitions/319.html"
             },
             {
               "id": "CWE-614",
